@@ -7,6 +7,7 @@ Final Project Mata Kuliah Pemrograman Berbasis Kerangka Kerja Kelas B Informatik
 
 ```
 Kelompok :
-1. Irman Kurniawan        05111640000032
-2. Maidina Choirun Nisa   05111640000176
+1. Irman Kurniawan         05111640000032
+2. Kurniawan Adji Saputro  05111640000142
+3. Maidina Choirun Nisa    05111640000176
 ```
